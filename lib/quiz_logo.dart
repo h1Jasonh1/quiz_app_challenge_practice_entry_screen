@@ -16,7 +16,7 @@ class QuizLogo extends StatelessWidget {
           logo,
           width: 300,
         ),
-        const SizedBox(height:80),
+        const SizedBox(height:40),
         const Text(
           "Learn Flutter the fun way!",
           style: TextStyle(
